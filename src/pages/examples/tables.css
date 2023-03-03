@@ -1,0 +1,24 @@
+.based {
+  border-bottom: 2px dotted black;
+  background-color: rgba(0, 255, 13, 0.5);
+  text-align: center;
+}
+.get {
+  border-bottom: 2px dotted black;
+  background-color: rgba(0, 255, 13, 0.5);
+  text-align: center;
+}
+.count {
+  border-bottom: 2px dotted black;
+  background-color: rgba(255, 0, 0, 0.5);
+  text-align: center;
+}
+.parent {
+  text-align: center;
+}
+h1 {
+  border-bottom: 6px solid red;
+}
+h2 {
+  border-bottom: 3px solid rgb(110, 110, 110);
+}
